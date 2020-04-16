@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 27.5 13.4" style="enable-background:new 0 0 27.5 13.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#1A1A1A;}
+	.st1{fill:#828282;stroke:#404040;stroke-width:0.1;}
+	.st2{opacity:0.5;}
+	.st3{fill:#FFFFFF;}
+	.st4{font-family:'ArialMT';}
+	.st5{font-size:3.6872px;}
+	.st6{font-family:'MyriadPro-Regular';}
+	.st7{font-size:3px;}
+</style>
+<desc>
+	<referenceFile>voltage_regulator_vreg.svg</referenceFile>
+</desc>
+<g>
+	<g>
+		<rect x="0.1" y="0.1" class="st0" width="27.4" height="13.3"/>
+		<path class="st1" d="M0.1,0.1v4h27.4v-4C27.5,0.1,0.1,0.1,0.1,0.1z"/>
+		<g class="st2">
+			<rect x="5.5" y="8.3" class="st1" width="2" height="1.7"/>
+			<rect x="12.7" y="8.3" class="st1" width="2" height="1.7"/>
+			<rect x="19.9" y="8.3" class="st1" width="2" height="1.7"/>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 7.0879 7.6948)" class="st3 st4 st5">LM7805</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 5.3838 12.6499)" class="st3 st6 st7">In</text>
+	<text transform="matrix(1 0 0 1 18.6089 12.6499)" class="st3 st6 st7">Out</text>
+	<text transform="matrix(1 0 0 1 10.8384 12.6499)" class="st3 st6 st7">GND</text>
+</g>
+</svg>
