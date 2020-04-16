@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="svg2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 57.6 23.8" style="enable-background:new 0 0 57.6 23.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#303030;}
+	.st1{fill:#3D3D3D;}
+	.st2{fill:#141414;}
+	.st3{fill:#1F1F1F;}
+	.st4{fill:#1C1C1C;}
+	.st5{fill:#383838;}
+	.st6{fill:#262626;}
+	.st7{fill:#212121;}
+	.st8{fill:#E6E6E6;}
+	.st9{font-family:'ArialMT';}
+	.st10{font-size:4px;}
+	.st11{fill:#8C8C8C;}
+	.st12{fill:#FFFFFF;}
+	.st13{font-size:2.7px;}
+</style>
+<desc>
+	<referenceFile>generic_ic_dip_16_400mil_bread.svg</referenceFile>
+</desc>
+<g>
+	<g id="breadboard">
+		<rect id="middle" y="2.2" class="st0" width="57.6" height="19.4"/>
+		<rect id="top" y="2.2" class="st1" width="57.6" height="1.8"/>
+		<rect id="bottom" y="19.8" width="57.6" height="1.8"/>
+		<polygon id="right" class="st2" points="57.6,2.2 57.1,3.9 57.1,19.8 57.6,21.6 		"/>
+		<polygon id="left" class="st3" points="0,2.2 0.5,3.9 0.5,19.8 0,21.6 		"/>
+		<g>
+			<polygon id="left-upper-rect" class="st4" points="3.6,8.3 0.5,8.3 0.4,9.8 0.4,11.9 3.6,11.9 			"/>
+			<polygon id="left-lower-rect" class="st5" points="0.5,15.5 3.6,15.5 3.6,11.9 0.4,11.9 0.4,14 			"/>
+			<path id="slot" class="st6" d="M0.4,9.8V14c1.1-0.1,1.9-1,1.9-2.1C2.3,10.8,1.5,9.9,0.4,9.8z"/>
+		</g>
+		<path id="cover" class="st0" d="M0.5,7.5v0.7c1.7,0.3,3,1.8,3,3.6s-1.3,3.3-3,3.6l0,0h3.6V7.5H0.5z"/>
+		<circle class="st7" cx="4.7" cy="16.9" r="1.5"/>
+		<text id="label" transform="matrix(1 0 0 1 15.4574 13.5715)" class="st8 st9 st10">CD74LS4017E</text>
+		<rect id="connector0pin" x="2.5" y="20.6" class="st11" width="2.2" height="3.1"/>
+		<rect id="connector0terminal" x="2.5" y="21.6" class="st11" width="2.2" height="2.2"/>
+		<polygon class="st11" points="2.5,20.6 2.5,22.1 4.7,22.1 6.1,21.4 6.1,20.6 		"/>
+		<rect id="connector15pin" x="2.5" class="st11" width="2.2" height="3.1"/>
+		<rect id="connector15terminal" x="2.5" class="st11" width="2.2" height="2.2"/>
+		<polygon class="st11" points="6.1,3.1 6.1,2.3 4.7,1.7 2.5,1.7 2.5,3.1 		"/>
+		<rect id="connector7pin" x="52.9" y="20.6" class="st11" width="2.2" height="3.1"/>
+		<rect id="connector7terminal" x="52.9" y="21.6" class="st11" width="2.2" height="2.2"/>
+		<polygon class="st11" points="51.5,20.6 51.5,21.4 52.9,22.1 55.1,22.1 55.1,20.6 		"/>
+		<rect id="connector8pin" x="52.9" class="st11" width="2.2" height="3.1"/>
+		<rect id="connector8terminal" x="52.9" class="st11" width="2.2" height="2.2"/>
+		<polygon class="st11" points="55.1,3.1 55.1,1.7 52.9,1.7 51.5,2.3 51.5,3.1 		"/>
+		<rect id="connector14pin" x="9.7" class="st11" width="2.2" height="3.1"/>
+		<rect id="connector14terminal" x="9.7" class="st11" width="2.2" height="2.2"/>
+		<polygon class="st11" points="13.3,3.1 13.3,2.3 11.9,1.7 9.7,1.7 8.3,2.3 8.3,3.1 		"/>
+		<rect id="connector13pin" x="16.9" class="st11" width="2.2" height="3.1"/>
+		<rect id="connector13terminal" x="16.9" class="st11" width="2.2" height="2.2"/>
+		<polygon class="st11" points="20.5,3.1 20.5,2.3 19.1,1.7 16.9,1.7 15.5,2.3 15.5,3.1 		"/>
+		<rect id="connector12pin" x="24.1" class="st11" width="2.2" height="3.1"/>
+		<rect id="connector12terminal" x="24.1" class="st11" width="2.2" height="2.2"/>
+		<polygon class="st11" points="27.7,3.1 27.7,2.3 26.3,1.7 24.1,1.7 22.7,2.3 22.7,3.1 		"/>
+		<rect id="connector11pin" x="31.3" class="st11" width="2.2" height="3.1"/>
+		<rect id="connector11terminal" x="31.3" class="st11" width="2.2" height="2.2"/>
+		<polygon class="st11" points="34.9,3.1 34.9,2.3 33.5,1.7 31.3,1.7 29.9,2.3 29.9,3.1 		"/>
+		<rect id="connector10pin" x="38.5" class="st11" width="2.2" height="3.1"/>
+		<rect id="connector10terminal" x="38.5" class="st11" width="2.2" height="2.2"/>
+		<polygon class="st11" points="42.1,3.1 42.1,2.3 40.7,1.7 38.5,1.7 37.1,2.3 37.1,3.1 		"/>
+		<rect id="connector9pin" x="45.7" class="st11" width="2.2" height="3.1"/>
+		<rect id="connector9terminal" x="45.7" class="st11" width="2.2" height="2.2"/>
+		<polygon class="st11" points="49.3,3.1 49.3,2.3 47.9,1.7 45.7,1.7 44.3,2.3 44.3,3.1 		"/>
+		<rect id="connector1pin" x="9.7" y="20.6" class="st11" width="2.2" height="3.1"/>
+		<rect id="connector1terminal" x="9.7" y="21.6" class="st11" width="2.2" height="2.2"/>
+		<polygon class="st11" points="8.3,20.6 8.3,21.4 9.7,22.1 11.9,22.1 13.3,21.4 13.3,20.6 		"/>
+		<rect id="connector2pin" x="16.9" y="20.6" class="st11" width="2.2" height="3.1"/>
+		<rect id="connector2terminal" x="16.9" y="21.6" class="st11" width="2.2" height="2.2"/>
+		<polygon class="st11" points="15.5,20.6 15.5,21.4 16.9,22.1 19.1,22.1 20.5,21.4 20.5,20.6 		"/>
+		<rect id="connector3pin" x="24.1" y="20.6" class="st11" width="2.2" height="3.1"/>
+		<rect id="connector3terminal" x="24.1" y="21.6" class="st11" width="2.2" height="2.2"/>
+		<polygon class="st11" points="22.7,20.6 22.7,21.4 24.1,22.1 26.3,22.1 27.7,21.4 27.7,20.6 		"/>
+		<rect id="connector4pin" x="31.3" y="20.6" class="st11" width="2.2" height="3.1"/>
+		<rect id="connector4terminal" x="31.3" y="21.6" class="st11" width="2.2" height="2.2"/>
+		<polygon class="st11" points="29.9,20.6 29.9,21.4 31.3,22.1 33.5,22.1 34.9,21.4 34.9,20.6 		"/>
+		<rect id="connector5pin" x="38.5" y="20.6" class="st11" width="2.2" height="3.1"/>
+		<rect id="connector5terminal" x="38.5" y="21.6" class="st11" width="2.2" height="2.2"/>
+		<polygon class="st11" points="37.1,20.6 37.1,21.4 38.5,22.1 40.7,22.1 42.1,21.4 42.1,20.6 		"/>
+		<rect id="connector6pin" x="45.7" y="20.6" class="st11" width="2.2" height="3.1"/>
+		<rect id="connector6terminal" x="45.7" y="21.6" class="st11" width="2.2" height="2.2"/>
+		<polygon class="st11" points="44.3,20.6 44.3,21.4 45.7,22.1 47.9,22.1 49.3,21.4 49.3,20.6 		"/>
+	</g>
+	<g>
+		<text transform="matrix(-1.836970e-16 -1 1 -1.836970e-16 4.9323 19.257)" class="st12 st9 st13">Q5</text>
+		<text transform="matrix(-1.836970e-16 -1 1 -1.836970e-16 11.9323 19.257)" class="st12 st9 st13">Q1</text>
+		<text transform="matrix(-1.836970e-16 -1 1 -1.836970e-16 19.0323 19.257)" class="st12 st9 st13">Q0</text>
+		<text transform="matrix(-1.836970e-16 -1 1 -1.836970e-16 26.0323 19.257)" class="st12 st9 st13">Q2</text>
+		<text transform="matrix(-1.836970e-16 -1 1 -1.836970e-16 33.1324 19.257)" class="st12 st9 st13">Q6</text>
+		<text transform="matrix(-1.836970e-16 -1 1 -1.836970e-16 40.1324 19.257)" class="st12 st9 st13">Q7</text>
+		<text transform="matrix(-1.836970e-16 -1 1 -1.836970e-16 47.1324 19.2531)" class="st12 st9 st13">Q3</text>
+		<text transform="matrix(-1.836970e-16 -1 1 -1.836970e-16 54.2324 19.257)" class="st12 st9 st13">GND</text>
+	</g>
+	<g>
+		<text transform="matrix(-1.836970e-16 -1 1 -1.836970e-16 4.9319 8.8635)" class="st12 st9 st13">Vcc</text>
+		<text transform="matrix(-1.836970e-16 -1 1 -1.836970e-16 11.9319 8.6359)" class="st12 st9 st13">MR</text>
+		<text transform="matrix(-1.836970e-16 -1 1 -1.836970e-16 19.032 9.6799)" class="st12 st9 st13">CP0</text>
+		<text transform="matrix(-1.836970e-16 -1 1 -1.836970e-16 26.0321 9.6799)" class="st12 st9 st13">CP1</text>
+		<text transform="matrix(-1.836970e-16 -1 1 -1.836970e-16 33.1322 10.4953)" class="st12 st9 st13">Q5-9</text>
+		<text transform="matrix(-1.836970e-16 -1 1 -1.836970e-16 40.1322 7.8879)" class="st12 st9 st13">Q9</text>
+		<text transform="matrix(-1.836970e-16 -1 1 -1.836970e-16 47.1322 7.8879)" class="st12 st9 st13">Q4</text>
+		<text transform="matrix(-1.836970e-16 -1 1 -1.836970e-16 54.2322 7.8879)" class="st12 st9 st13">Q8</text>
+	</g>
+</g>
+</svg>

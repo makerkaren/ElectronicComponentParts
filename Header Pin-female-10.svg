@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 72 7.2"
+	 style="enable-background:new 0 0 72 7.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#404040;}
+	.st1{fill:none;}
+	.st2{fill:#2A2A29;}
+	.st3{fill:#474747;}
+	.st4{fill:#595959;}
+	.st5{fill:#373737;}
+</style>
+<g>
+	<g id="breadboard">
+		<rect class="st0" width="72" height="7.2"/>
+		<rect id="connector0pin" x="2.2" y="2.2" class="st1" width="2.8" height="2.8"/>
+		<rect id="connector0terminal" x="2.5" y="2.5" class="st1" width="2.2" height="2.3"/>
+		<rect x="2.2" y="2.2" width="2.8" height="2.8"/>
+		<polygon class="st2" points="1.2,1.2 2.2,2.2 5,2.2 6,1.2 		"/>
+		<polygon class="st3" points="6,1.2 5,2.2 5,5 6,6 		"/>
+		<polygon class="st4" points="6,6 5,5 2.2,5 1.2,6 		"/>
+		<polygon class="st5" points="1.2,6 2.2,5 2.2,2.2 1.2,1.2 		"/>
+		<rect id="connector1pin" x="9.4" y="2.2" class="st1" width="2.8" height="2.8"/>
+		<rect id="connector1terminal" x="9.7" y="2.5" class="st1" width="2.2" height="2.3"/>
+		<rect x="9.4" y="2.2" width="2.8" height="2.8"/>
+		<polygon class="st2" points="8.4,1.2 9.4,2.2 12.2,2.2 13.2,1.2 		"/>
+		<polygon class="st3" points="13.2,1.2 12.2,2.2 12.2,5 13.2,6 		"/>
+		<polygon class="st4" points="13.2,6 12.2,5 9.4,5 8.4,6 		"/>
+		<polygon class="st5" points="8.4,6 9.4,5 9.4,2.2 8.4,1.2 		"/>
+		<rect id="connector2pin" x="16.6" y="2.2" class="st1" width="2.8" height="2.8"/>
+		<rect id="connector2terminal" x="16.9" y="2.5" class="st1" width="2.2" height="2.3"/>
+		<rect x="16.6" y="2.2" width="2.8" height="2.8"/>
+		<polygon class="st2" points="15.6,1.2 16.6,2.2 19.4,2.2 20.4,1.2 		"/>
+		<polygon class="st3" points="20.4,1.2 19.4,2.2 19.4,5 20.4,6 		"/>
+		<polygon class="st4" points="20.4,6 19.4,5 16.6,5 15.6,6 		"/>
+		<polygon class="st5" points="15.6,6 16.6,5 16.6,2.2 15.6,1.2 		"/>
+		<rect id="connector3pin" x="23.8" y="2.2" class="st1" width="2.8" height="2.8"/>
+		<rect id="connector3terminal" x="24.1" y="2.5" class="st1" width="2.2" height="2.3"/>
+		<rect x="23.8" y="2.2" width="2.8" height="2.8"/>
+		<polygon class="st2" points="22.8,1.2 23.8,2.2 26.6,2.2 27.6,1.2 		"/>
+		<polygon class="st3" points="27.6,1.2 26.6,2.2 26.6,5 27.6,6 		"/>
+		<polygon class="st4" points="27.6,6 26.6,5 23.8,5 22.8,6 		"/>
+		<polygon class="st5" points="22.8,6 23.8,5 23.8,2.2 22.8,1.2 		"/>
+		<rect id="connector4pin" x="31" y="2.2" class="st1" width="2.8" height="2.8"/>
+		<rect id="connector4terminal" x="31.3" y="2.5" class="st1" width="2.2" height="2.3"/>
+		<rect x="31" y="2.2" width="2.8" height="2.8"/>
+		<polygon class="st2" points="30,1.2 31,2.2 33.8,2.2 34.8,1.2 		"/>
+		<polygon class="st3" points="34.8,1.2 33.8,2.2 33.8,5 34.8,6 		"/>
+		<polygon class="st4" points="34.8,6 33.8,5 31,5 30,6 		"/>
+		<polygon class="st5" points="30,6 31,5 31,2.2 30,1.2 		"/>
+		<rect id="connector5pin" x="38.2" y="2.2" class="st1" width="2.8" height="2.8"/>
+		<rect id="connector5terminal" x="38.5" y="2.5" class="st1" width="2.2" height="2.3"/>
+		<rect x="38.2" y="2.2" width="2.8" height="2.8"/>
+		<polygon class="st2" points="37.2,1.2 38.2,2.2 41,2.2 42,1.2 		"/>
+		<polygon class="st3" points="42,1.2 41,2.2 41,5 42,6 		"/>
+		<polygon class="st4" points="42,6 41,5 38.2,5 37.2,6 		"/>
+		<polygon class="st5" points="37.2,6 38.2,5 38.2,2.2 37.2,1.2 		"/>
+		<rect id="connector6pin" x="45.4" y="2.2" class="st1" width="2.8" height="2.8"/>
+		<rect id="connector6terminal" x="45.7" y="2.5" class="st1" width="2.2" height="2.3"/>
+		<rect x="45.4" y="2.2" width="2.8" height="2.8"/>
+		<polygon class="st2" points="44.4,1.2 45.4,2.2 48.2,2.2 49.2,1.2 		"/>
+		<polygon class="st3" points="49.2,1.2 48.2,2.2 48.2,5 49.2,6 		"/>
+		<polygon class="st4" points="49.2,6 48.2,5 45.4,5 44.4,6 		"/>
+		<polygon class="st5" points="44.4,6 45.4,5 45.4,2.2 44.4,1.2 		"/>
+		<rect id="connector7pin" x="52.6" y="2.2" class="st1" width="2.8" height="2.8"/>
+		<rect id="connector7terminal" x="52.9" y="2.5" class="st1" width="2.2" height="2.3"/>
+		<rect x="52.6" y="2.2" width="2.8" height="2.8"/>
+		<polygon class="st2" points="51.6,1.2 52.6,2.2 55.4,2.2 56.4,1.2 		"/>
+		<polygon class="st3" points="56.4,1.2 55.4,2.2 55.4,5 56.4,6 		"/>
+		<polygon class="st4" points="56.4,6 55.4,5 52.6,5 51.6,6 		"/>
+		<polygon class="st5" points="51.6,6 52.6,5 52.6,2.2 51.6,1.2 		"/>
+		<rect id="connector8pin" x="59.8" y="2.2" class="st1" width="2.8" height="2.8"/>
+		<rect id="connector8terminal" x="60.1" y="2.5" class="st1" width="2.2" height="2.3"/>
+		<rect x="59.8" y="2.2" width="2.8" height="2.8"/>
+		<polygon class="st2" points="58.8,1.2 59.8,2.2 62.6,2.2 63.6,1.2 		"/>
+		<polygon class="st3" points="63.6,1.2 62.6,2.2 62.6,5 63.6,6 		"/>
+		<polygon class="st4" points="63.6,6 62.6,5 59.8,5 58.8,6 		"/>
+		<polygon class="st5" points="58.8,6 59.8,5 59.8,2.2 58.8,1.2 		"/>
+		<rect id="connector9pin" x="67" y="2.2" class="st1" width="2.8" height="2.8"/>
+		<rect id="connector9terminal" x="67.3" y="2.5" class="st1" width="2.2" height="2.3"/>
+		<rect x="67" y="2.2" width="2.8" height="2.8"/>
+		<polygon class="st2" points="66,1.2 67,2.2 69.8,2.2 70.8,1.2 		"/>
+		<polygon class="st3" points="70.8,1.2 69.8,2.2 69.8,5 70.8,6 		"/>
+		<polygon class="st4" points="70.8,6 69.8,5 67,5 66,6 		"/>
+		<polygon class="st5" points="66,6 67,5 67,2.2 66,1.2 		"/>
+	</g>
+</g>
+</svg>

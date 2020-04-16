@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='1.2in' height='0.1in' viewBox='0 0 86.4 7.2' >
+<g partID='854285150'><g xmlns="http://www.w3.org/2000/svg" id="breadboard">
+ <rect xmlns="http://www.w3.org/2000/svg" height="7.2" width="86.4" fill="#404040"/>
+ <rect xmlns="http://www.w3.org/2000/svg" id="connector0pin" x="2.20843" height="2.78312" y="2.20843" width="2.78312" fill="none"/>
+ <rect xmlns="http://www.w3.org/2000/svg" id="connector0terminal" x="2.51834" height="2.25658" y="2.47054" width="2.15829" fill="none"/>
+ <rect xmlns="http://www.w3.org/2000/svg" x="2.20843" height="2.78312" y="2.20843" width="2.78312"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="1.18445,1.18445,2.20843,2.20843,4.99156,2.20843,6.01654,1.18445" fill="#2A2A29"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="6.01654,1.18445,4.99156,2.20843,4.99156,4.99156,6.01654,6.01654" fill="#474747"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="6.01654,6.01654,4.99156,4.99156,2.20843,4.99156,1.18445,6.01654" fill="#595959"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="1.18445,6.01654,2.20843,4.99156,2.20843,2.20843,1.18445,1.18445" fill="#373737"/>
+ <rect xmlns="http://www.w3.org/2000/svg" id="connector1pin" x="9.40846" height="2.78312" y="2.20843" width="2.78312" fill="none"/>
+ <rect xmlns="http://www.w3.org/2000/svg" id="connector1terminal" x="9.71834" height="2.25658" y="2.47054" width="2.15829" fill="none"/>
+ <rect xmlns="http://www.w3.org/2000/svg" x="9.40846" height="2.78312" y="2.20843" width="2.78312"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="8.38447,1.18445,9.40846,2.20843,12.1915,2.20843,13.2165,1.18445" fill="#2A2A29"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="13.2165,1.18445,12.1915,2.20843,12.1915,4.99156,13.2165,6.01654" fill="#474747"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="13.2165,6.01654,12.1915,4.99156,9.40846,4.99156,8.38447,6.01654" fill="#595959"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="8.38447,6.01654,9.40846,4.99156,9.40846,2.20843,8.38447,1.18445" fill="#373737"/>
+ <rect xmlns="http://www.w3.org/2000/svg" id="connector2pin" x="16.6085" height="2.78312" y="2.20843" width="2.78312" fill="none"/>
+ <rect xmlns="http://www.w3.org/2000/svg" id="connector2terminal" x="16.9183" height="2.25658" y="2.47054" width="2.15829" fill="none"/>
+ <rect xmlns="http://www.w3.org/2000/svg" x="16.6085" height="2.78312" y="2.20843" width="2.78312"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="15.5845,1.18445,16.6085,2.20843,19.3915,2.20843,20.4165,1.18445" fill="#2A2A29"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="20.4165,1.18445,19.3915,2.20843,19.3915,4.99156,20.4165,6.01654" fill="#474747"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="20.4165,6.01654,19.3915,4.99156,16.6085,4.99156,15.5845,6.01654" fill="#595959"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="15.5845,6.01654,16.6085,4.99156,16.6085,2.20843,15.5845,1.18445" fill="#373737"/>
+ <rect xmlns="http://www.w3.org/2000/svg" id="connector3pin" x="23.8085" height="2.78312" y="2.20843" width="2.78312" fill="none"/>
+ <rect xmlns="http://www.w3.org/2000/svg" id="connector3terminal" x="24.1183" height="2.25658" y="2.47054" width="2.15829" fill="none"/>
+ <rect xmlns="http://www.w3.org/2000/svg" x="23.8085" height="2.78312" y="2.20843" width="2.78312"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="22.7845,1.18445,23.8085,2.20843,26.5915,2.20843,27.6165,1.18445" fill="#2A2A29"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="27.6165,1.18445,26.5915,2.20843,26.5915,4.99156,27.6165,6.01654" fill="#474747"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="27.6165,6.01654,26.5915,4.99156,23.8085,4.99156,22.7845,6.01654" fill="#595959"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="22.7845,6.01654,23.8085,4.99156,23.8085,2.20843,22.7845,1.18445" fill="#373737"/>
+ <rect xmlns="http://www.w3.org/2000/svg" id="connector4pin" x="31.0085" height="2.78312" y="2.20843" width="2.78312" fill="none"/>
+ <rect xmlns="http://www.w3.org/2000/svg" id="connector4terminal" x="31.3183" height="2.25658" y="2.47054" width="2.15829" fill="none"/>
+ <rect xmlns="http://www.w3.org/2000/svg" x="31.0085" height="2.78312" y="2.20843" width="2.78312"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="29.9845,1.18445,31.0085,2.20843,33.7915,2.20843,34.8165,1.18445" fill="#2A2A29"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="34.8165,1.18445,33.7915,2.20843,33.7915,4.99156,34.8165,6.01654" fill="#474747"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="34.8165,6.01654,33.7915,4.99156,31.0085,4.99156,29.9845,6.01654" fill="#595959"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="29.9845,6.01654,31.0085,4.99156,31.0085,2.20843,29.9845,1.18445" fill="#373737"/>
+ <rect xmlns="http://www.w3.org/2000/svg" id="connector5pin" x="38.2085" height="2.78312" y="2.20843" width="2.78312" fill="none"/>
+ <rect xmlns="http://www.w3.org/2000/svg" id="connector5terminal" x="38.5183" height="2.25658" y="2.47054" width="2.15829" fill="none"/>
+ <rect xmlns="http://www.w3.org/2000/svg" x="38.2085" height="2.78312" y="2.20843" width="2.78312"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="37.1845,1.18445,38.2085,2.20843,40.9915,2.20843,42.0165,1.18445" fill="#2A2A29"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="42.0165,1.18445,40.9915,2.20843,40.9915,4.99156,42.0165,6.01654" fill="#474747"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="42.0165,6.01654,40.9915,4.99156,38.2085,4.99156,37.1845,6.01654" fill="#595959"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="37.1845,6.01654,38.2085,4.99156,38.2085,2.20843,37.1845,1.18445" fill="#373737"/>
+ <rect xmlns="http://www.w3.org/2000/svg" id="connector6pin" x="45.4085" height="2.78312" y="2.20843" width="2.78312" fill="none"/>
+ <rect xmlns="http://www.w3.org/2000/svg" id="connector6terminal" x="45.7183" height="2.25658" y="2.47054" width="2.15829" fill="none"/>
+ <rect xmlns="http://www.w3.org/2000/svg" x="45.4085" height="2.78312" y="2.20843" width="2.78312"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="44.3845,1.18445,45.4085,2.20843,48.1915,2.20843,49.2165,1.18445" fill="#2A2A29"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="49.2165,1.18445,48.1915,2.20843,48.1915,4.99156,49.2165,6.01654" fill="#474747"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="49.2165,6.01654,48.1915,4.99156,45.4085,4.99156,44.3845,6.01654" fill="#595959"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="44.3845,6.01654,45.4085,4.99156,45.4085,2.20843,44.3845,1.18445" fill="#373737"/>
+ <rect xmlns="http://www.w3.org/2000/svg" id="connector7pin" x="52.6085" height="2.78312" y="2.20843" width="2.78312" fill="none"/>
+ <rect xmlns="http://www.w3.org/2000/svg" id="connector7terminal" x="52.9183" height="2.25658" y="2.47054" width="2.15829" fill="none"/>
+ <rect xmlns="http://www.w3.org/2000/svg" x="52.6085" height="2.78312" y="2.20843" width="2.78312"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="51.5845,1.18445,52.6085,2.20843,55.3915,2.20843,56.4165,1.18445" fill="#2A2A29"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="56.4165,1.18445,55.3915,2.20843,55.3915,4.99156,56.4165,6.01654" fill="#474747"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="56.4165,6.01654,55.3915,4.99156,52.6085,4.99156,51.5845,6.01654" fill="#595959"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="51.5845,6.01654,52.6085,4.99156,52.6085,2.20843,51.5845,1.18445" fill="#373737"/>
+ <rect xmlns="http://www.w3.org/2000/svg" id="connector8pin" x="59.8085" height="2.78312" y="2.20843" width="2.78312" fill="none"/>
+ <rect xmlns="http://www.w3.org/2000/svg" id="connector8terminal" x="60.1183" height="2.25658" y="2.47054" width="2.15829" fill="none"/>
+ <rect xmlns="http://www.w3.org/2000/svg" x="59.8085" height="2.78312" y="2.20843" width="2.78312"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="58.7845,1.18445,59.8085,2.20843,62.5915,2.20843,63.6165,1.18445" fill="#2A2A29"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="63.6165,1.18445,62.5915,2.20843,62.5915,4.99156,63.6165,6.01654" fill="#474747"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="63.6165,6.01654,62.5915,4.99156,59.8085,4.99156,58.7845,6.01654" fill="#595959"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="58.7845,6.01654,59.8085,4.99156,59.8085,2.20843,58.7845,1.18445" fill="#373737"/>
+ <rect xmlns="http://www.w3.org/2000/svg" id="connector9pin" x="67.0085" height="2.78312" y="2.20843" width="2.78312" fill="none"/>
+ <rect xmlns="http://www.w3.org/2000/svg" id="connector9terminal" x="67.3183" height="2.25658" y="2.47054" width="2.15829" fill="none"/>
+ <rect xmlns="http://www.w3.org/2000/svg" x="67.0085" height="2.78312" y="2.20843" width="2.78312"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="65.9845,1.18445,67.0085,2.20843,69.7915,2.20843,70.8165,1.18445" fill="#2A2A29"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="70.8165,1.18445,69.7915,2.20843,69.7915,4.99156,70.8165,6.01654" fill="#474747"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="70.8165,6.01654,69.7915,4.99156,67.0085,4.99156,65.9845,6.01654" fill="#595959"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="65.9845,6.01654,67.0085,4.99156,67.0085,2.20843,65.9845,1.18445" fill="#373737"/>
+ <rect xmlns="http://www.w3.org/2000/svg" id="connector10pin" x="74.2082" height="2.78312" y="2.20843" width="2.78312" fill="none"/>
+ <rect xmlns="http://www.w3.org/2000/svg" id="connector10terminal" x="74.5186" height="2.25658" y="2.47054" width="2.15829" fill="none"/>
+ <rect xmlns="http://www.w3.org/2000/svg" x="74.2082" height="2.78312" y="2.20843" width="2.78312"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="73.1844,1.18445,74.2082,2.20843,76.9918,2.20843,78.0163,1.18445" fill="#2A2A29"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="78.0163,1.18445,76.9918,2.20843,76.9918,4.99156,78.0163,6.01654" fill="#474747"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="78.0163,6.01654,76.9918,4.99156,74.2082,4.99156,73.1844,6.01654" fill="#595959"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="73.1844,6.01654,74.2082,4.99156,74.2082,2.20843,73.1844,1.18445" fill="#373737"/>
+ <rect xmlns="http://www.w3.org/2000/svg" id="connector11pin" x="81.4082" height="2.78312" y="2.20843" width="2.78312" fill="none"/>
+ <rect xmlns="http://www.w3.org/2000/svg" id="connector11terminal" x="81.7186" height="2.25658" y="2.47054" width="2.15829" fill="none"/>
+ <rect xmlns="http://www.w3.org/2000/svg" x="81.4082" height="2.78312" y="2.20843" width="2.78312"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="80.3844,1.18445,81.4082,2.20843,84.1918,2.20843,85.2163,1.18445" fill="#2A2A29"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="85.2163,1.18445,84.1918,2.20843,84.1918,4.99156,85.2163,6.01654" fill="#474747"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="85.2163,6.01654,84.1918,4.99156,81.4082,4.99156,80.3844,6.01654" fill="#595959"/>
+ <polygon xmlns="http://www.w3.org/2000/svg" points="80.3844,6.01654,81.4082,4.99156,81.4082,2.20843,80.3844,1.18445" fill="#373737"/>
+</g>
+</g></svg>

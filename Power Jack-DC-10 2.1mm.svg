@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 40.1 27.3" style="enable-background:new 0 0 40.1 27.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
+	.st2{fill:#B3B3B3;stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;}
+	.st3{opacity:0.5;fill:#B3B3B3;stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;}
+	.st4{opacity:0.5;fill:#B3B3B3;stroke:#FB0000;stroke-width:0.25;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;}
+	.st6{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		
+			<rect x="0.2" y="1.7" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 40.185 28.8465)" class="st0" width="39.7" height="25.5"/>
+		
+			<rect x="30" y="1.7" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 69.9488 28.8465)" class="st1" width="9.9" height="25.5"/>
+		
+			<rect x="6.6" y="0.2" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 20.2095 1.9173)" class="st2" width="7.1" height="1.4"/>
+		
+			<rect x="18.2" y="10.9" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 37.7843 28.8465)" class="st3" width="1.4" height="7.1"/>
+		
+			<rect x="0.6" y="10.9" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 2.6347 28.8465)" class="st4" width="1.4" height="7.1"/>
+	</g>
+	<g>
+		<circle class="st5" cx="8.7" cy="7.2" r="1.7"/>
+		<path class="st5" d="M19.9,8.6c-0.3,0.2-0.6,0.3-1,0.3c-0.9,0-1.7-0.8-1.7-1.7s0.8-1.7,1.7-1.7c0.3,0,0.7,0.1,0.9,0.3"/>
+		<circle class="st5" cx="29.1" cy="7.2" r="1.7"/>
+		<line class="st5" x1="17.2" y1="7.2" x2="10.4" y2="7.2"/>
+		<circle class="st6" cx="18.9" cy="7.2" r="0.4"/>
+		<line class="st5" x1="18.9" y1="7.2" x2="27.4" y2="7.2"/>
+		<line class="st5" x1="29.1" y1="6.3" x2="29.1" y2="8.1"/>
+		<line class="st5" x1="30" y1="7.2" x2="28.2" y2="7.2"/>
+		<line class="st5" x1="9.6" y1="7.2" x2="7.8" y2="7.2"/>
+	</g>
+</g>
+</svg>
